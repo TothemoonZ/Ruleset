@@ -1,4 +1,4 @@
 # CustomDirect
 # > General
-DOMAIN-SUFFIX,tracker.sjtu.edu.cn
-DOMAIN-SUFFIX,www.hostloc.com
+DOMAIN,tracker.sjtu.edu.cn
+DOMAIN,www.hostloc.com
